@@ -109,11 +109,15 @@
 
 .iggrow-logo {
   color: white;
-  font-size: 35px;
+  font-size: 26px;
   font-weight: 600;
 
   &:hover {
     font-weight: 600 !important;
+  }
+
+  span {
+    font-weight: 400;
   }
 }
 
